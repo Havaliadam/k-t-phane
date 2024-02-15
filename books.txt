@@ -1,0 +1,3 @@
+merhaba,deneme,2023,200
+demir,kaya,1999,450
+falaka,ömer seyfettin,1929,80
